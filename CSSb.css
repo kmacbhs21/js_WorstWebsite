@@ -1,0 +1,40 @@
+h1 {
+    color: Black;
+    font-family: AppleGothic;
+    font-weight: bold;
+    font-size: 80px;
+    text-align: right;
+    text-shadow: 0 0 10px #EC173A, 0 0 15px #EC173A, 0 0 20px #EC173A, 0 0 25px #EC173A, 0 0 30px #EC173A, 0 0 45px #EC173A, 0 0 60px #EC173A, 0 0 80px #EC173A;
+
+    position: relative;
+    right: 200px;
+}
+
+
+
+h2{
+    font-family: "fantasy";
+    font-size: 40px;
+    text-shadow: rgba(255,255,255,.5) 0 0 15px, rgba(255,255,255,.5) 0 0 10px;
+    position: relative;
+    left: 200px;
+
+}
+
+body{
+    align-content: center;
+    background-image: url("https://media1.tenor.com/images/2060b012ce3ca527618ce1f100109109/tenor.gif?itemid=16728482");
+    left: 30px;
+    border: 75px solid Black;
+    margin-left: -100px;
+    margin-right: 50px;
+    margin-top: 25px;
+    padding-right: 150px;
+}
+img:hover {
+    border-radius: 140%;
+    height: auto;
+    width: 20%;
+    transform: scale(5);
+
+}

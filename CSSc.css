@@ -1,0 +1,41 @@
+h1 {
+    color: mediumseagreen;
+    font-family: AppleGothic;
+    font-weight: bold;
+    font-size: 80px;
+    text-align: right;
+    text-shadow: 0 0 10px #49ff18, 0 0 15px #49ff18, 0 0 20px #49ff18, 0 0 25px #49ff18, 0 0 30px #49ff18, 0 0 45px #49ff18, 0 0 60px #49ff18, 0 0 80px #49ff18;
+    position: relative;
+    right: 200px;
+}
+
+
+
+h2{
+    font-family: "fantasy";
+    font-size: 40px;
+    text-shadow: rgba(255,255,255,.5) 0 0 15px, rgba(255,255,255,.5) 0 0 10px;
+    transform: rotate(180deg);
+
+]    position: relative;
+    left: 200px;
+
+}
+
+body{
+    align-content: center;
+    background-image: url("https://i.pinimg.com/originals/ae/c0/44/aec0445c6b1673136db065b176d1e888.gif");
+    left: 30px;
+    border: 75px solid red;
+    margin-left: -100px;
+    margin-right: 50px;
+    margin-top: 25px;
+    padding-right: 150px;
+}
+img:hover {
+    border-radius: 150%;
+    height: auto;
+    width: 20%;
+    transform: scale(5);
+
+}
